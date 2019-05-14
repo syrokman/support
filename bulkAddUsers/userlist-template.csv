@@ -1,0 +1,6 @@
+LastName,FirstName,DisplayName,Title,Department,Email,UserName,Group,Password
+Fury,Nick,Nick Fury,Director,SHIELD,nick.fury@shield.gov,nfury," _Lic,System Standards and Compliance Librarian,System Standards and Compliance User",Pas$w0rd
+Stark,Tony,Tony Stark,Ironman,Avengers,tony.stark@avengers.org,tstark," _Lic,System Standards and Compliance User",Pas$w0rd
+Rogers,Steve,Steve Rogers,Capt.America,Avengers,steve.rogers@avengers.org,srogers," _Lic,System Standards and Compliance User",Pas$w0rd
+Coulson,Phil,Phil Coulson,Agent,SHIELD,phil.coulson@shield.gov,pcoulson, _Lic,Pas$w0rd
+Romanova,Natalia,Natasha Romanova,Black Widow ,Avengers,natasha.romanova@avengers.org,nromanova," _Lic,System Standards and Compliance User",Pas$w0rd
